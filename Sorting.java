@@ -13,7 +13,7 @@ class Sorting
 					j=j-1;
 					display(a1);
 				}
-					a1[j+i]=key;
+					a1[j+1]=key;
 				}
 			}
 			static void display(int arr[])
